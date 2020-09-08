@@ -22,7 +22,9 @@ func (stu *Student) testing() {
 	println("小学生正在考试......")
 }
 
-type Pupil struct {
+ty
+
+pe Pupil struct {
 	Student //嵌入匿名结构体
 }
 
